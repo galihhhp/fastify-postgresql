@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+*.tsbuildinfo
+npm-debug.log*
+.DS_Store
+.idea/
+.vscode/
+coverage/
+fastify-cors.d.ts 
